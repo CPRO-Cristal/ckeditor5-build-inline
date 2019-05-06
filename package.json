@@ -36,6 +36,7 @@
     "@ckeditor/ckeditor5-easy-image": "^11.0.1",
     "@ckeditor/ckeditor5-editor-inline": "^12.1.0",
     "@ckeditor/ckeditor5-essentials": "^11.0.1",
+    "@ckeditor/ckeditor5-font": "^11.1.0",
     "@ckeditor/ckeditor5-heading": "^11.0.1",
     "@ckeditor/ckeditor5-image": "^13.0.1",
     "@ckeditor/ckeditor5-link": "^11.0.1",
